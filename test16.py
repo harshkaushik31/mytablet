@@ -11,4 +11,4 @@ def ARMSTRONG(n):
     else:
         print('The number is not a armstrong number!')
 n = int(input('Enter the number: '))
-ARMSTRONGONG(n)
+ARMSTRONG(n)
